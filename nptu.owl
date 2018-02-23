@@ -9,7 +9,7 @@
 
 <owl:Ontology rdf:about="">
   <rdfs:comment>An Article List ontology for benchmark tests</rdfs:comment>
-  <rdfs:label>PTU Ontology</rdfs:label>
+  <rdfs:label>NPTU Ontology</rdfs:label>
 </owl:Ontology>
 
 <owl:Restriction>
